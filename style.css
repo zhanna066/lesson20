@@ -11,3 +11,10 @@
     background-color: rgb(111, 111, 179);
     color: white;
 }
+
+.content {
+    width: 300px;
+    height: 100vh;
+    background-color: brown;
+    border-radius: 10px;
+}
